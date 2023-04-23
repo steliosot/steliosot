@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @steliosot
 - 👀 I’m interested in distributed systems!
 - 🌱 I’m currently learning everything I can!
-- 💞️ I’m looking to collaborate on interdisciplinary research
+- 💞️ I’m looking for people who like to research on cloud and big data
 - 📫 How to reach me? email me at: steliosot (at) msn.com
 
 <!---
